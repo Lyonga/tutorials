@@ -1,0 +1,4 @@
+seventh
+
+As the ToDo application contains personal information (the user's ToDo items), access is restricted only to registered and authenticated users. Each user can access o
+nly their own items
